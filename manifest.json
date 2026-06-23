@@ -1,1 +1,5 @@
-{"display_name": "Action Options", "version": "1.0", "js": "index.js"}
+{
+  "display_name": "Action Options",
+  "version": "1.0",
+  "js": "index.js"
+}
